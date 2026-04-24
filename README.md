@@ -31,38 +31,6 @@
 
 <br>
 
-<!-- Tech Stack -->
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<!-- AI & ML -->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-FF6F61?style=for-the-badge&logo=llamaindex&logoColor=white" />
-<br>
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<br>
-<!-- Backend & Database -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<br>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
-<br>
-
 <!-- Publications -->
 <div align="center">
 
@@ -130,17 +98,6 @@
 
 <br>
 
-<!-- GitHub Trophies -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZEN-Weiss1984&theme=flat&no-frame=true&no-bg=false&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
-
-</div>
-
-<br>
-
 <!-- Daily Quote -->
 <div align="center">
 
@@ -157,7 +114,7 @@
 
 ### 🤝 Contact Me
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:zen1984.kr@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ZEN-Weiss1984">
