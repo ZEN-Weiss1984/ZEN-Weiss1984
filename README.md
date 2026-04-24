@@ -22,7 +22,7 @@
 
 🎓 **Master of Computing (Specialisation)** @ [National University of Singapore (NUS)](https://www.nus.edu.sg/)  
 🎓 **Bachelor's Degree** @ [Sichuan University](https://www.scu.edu.cn/)  
-🔬 **Research Intern** @ [ShowLab](https://showlab.github.io/), advised by **Prof. Mike Shou**  
+🔬 **Research Intern** @ [ShowLab](https://sites.google.com/view/showlab), advised by **Prof. Mike Shou**  
 🤖 Focusing on cutting-edge directions: **RAG**, **Memory**, **Dialogue System**, **VLA**  
 🧠 Deeply exploring **Multimodal Learning** and **Post-training** techniques  
 🌱 Passionate about building intelligent systems with long-term memory and multi-turn interaction capabilities
@@ -125,9 +125,9 @@
 
 <!-- GitHub Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
