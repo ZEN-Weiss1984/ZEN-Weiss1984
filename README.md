@@ -1,39 +1,40 @@
 <div align="center">
 
-<!-- 动态打字机效果标题 -->
+<!-- Dynamic Typing Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+ZEN-Weiss1984;Master+Student+%40+NUS;AI+Researcher+%40+ShowLab;Multimodal+%7C+RAG+%7C+Dialogue+%7C+VLA" alt="Typing SVG" />
 </a>
 
-<!-- 动态波浪分隔线 -->
+<!-- Animated Wave Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=header&text=&fontSize=0" width="100%" />
 
-<!-- 访问计数器 -->
+<!-- Profile View Counter -->
 <img src="https://komarev.com/ghpvc/?username=ZEN-Weiss1984&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br>
 
-<!-- 关于我 -->
+<!-- About Me -->
 <div align="center">
 
-### 🎓 关于我
+### 🎓 About Me
 
 🎓 **Master of Computing (Specialisation)** @ [National University of Singapore (NUS)](https://www.nus.edu.sg/)  
+🎓 **Bachelor's Degree** @ [Sichuan University](https://www.scu.edu.cn/)  
 🔬 **Research Intern** @ [ShowLab](https://showlab.github.io/), advised by **Prof. Mike Shou**  
-🤖 专注于 **RAG**、**Memory**、**Dialogue System**、**VLA** 等前沿方向  
-🧠 正在深入探索 **多模态学习 (Multimodal Learning)** 与 **后训练 (Post-training)** 技术  
-🌱 对构建具备长期记忆与多轮交互能力的智能系统充满热情
+🤖 Focusing on cutting-edge directions: **RAG**, **Memory**, **Dialogue System**, **VLA**  
+🧠 Deeply exploring **Multimodal Learning** and **Post-training** techniques  
+🌱 Passionate about building intelligent systems with long-term memory and multi-turn interaction capabilities
 
 </div>
 
 <br>
 
-<!-- 技能图标 -->
+<!-- Tech Stack -->
 <div align="center">
 
-### 🛠️ 技术栈
+### 🛠️ Tech Stack
 
 <!-- AI & ML -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -42,18 +43,18 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LlamaIndex-FF6F61?style=for-the-badge&logo=llamaindex&logoColor=white" />
 <br>
-<!-- 编程语言 -->
+<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <br>
-<!-- 后端 & 数据库 -->
+<!-- Backend & Database -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <br>
-<!-- 工具 -->
+<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -62,10 +63,49 @@
 
 <br>
 
-<!-- GitHub 统计卡片 -->
+<!-- Publications -->
 <div align="center">
 
-### 📊 GitHub 统计
+### 📄 Publications
+
+<table>
+  <tr>
+    <td width="70%">
+      <a href="https://arxiv.org/abs/2510.13193">
+        <b>ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG</b>
+      </a>
+      <br>
+      <sub>Yikuan Hu<sup>*</sup>, Jifeng Zhu<sup>*</sup>, Lanrui Tang, Chen Huang</sub>
+      <br>
+      <sub><sup>*</sup> Equal Contribution (Co-first Authors)</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/NeurIPS-2025-00D4AA?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Knowledge%20Graph-FF6F61?style=flat-square" />
+      <img src="https://img.shields.io/badge/Memory-9B59B6?style=flat-square" />
+      <br>
+      <sub>Proposes an LLM-guided knowledge graph traversal framework, combining node exploration, node exploitation, and memory replay mechanisms to improve RAG system effectiveness and cost efficiency in a training-free manner.</sub>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://arxiv.org/abs/2510.13193">
+        <img src="https://img.shields.io/badge/arXiv-2510.13193-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="https://arxiv.org/pdf/2510.13193">
+        <img src="https://img.shields.io/badge/PDF-Download-00D4AA?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 GitHub Stats
 
 <table>
   <tr>
@@ -78,22 +118,22 @@
   </tr>
 </table>
 
-<!-- GitHub Streak 连续贡献 -->
+<!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEN-Weiss1984&theme=transparent&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=00D4AA&currStreakLabel=00D4AA&sideNums=333&sideLabels=333" alt="GitHub Streak" />
 
 <br>
 
-<!-- 3D 贡献图 -->
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZEN-Weiss1984&theme=github-compact&hide_border=true&area=true&color=00D4AA&line=00D4AA&point=00D4AA" alt="Contribution Graph" width="90%" />
 
 </div>
 
 <br>
 
-<!-- 奖杯展示 -->
+<!-- GitHub Trophies -->
 <div align="center">
 
-### 🏆 GitHub 奖杯
+### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZEN-Weiss1984&theme=flat&no-frame=true&no-bg=false&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 
@@ -101,10 +141,10 @@
 
 <br>
 
-<!-- 动态引用 -->
+<!-- Daily Quote -->
 <div align="center">
 
-### 💡 每日灵感
+### 💡 Daily Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it's+not+good.&author=Cory+House" alt="Quote" />
 
@@ -112,10 +152,10 @@
 
 <br>
 
-<!-- 底部联系 -->
+<!-- Contact -->
 <div align="center">
 
-### 🤝 联系我
+### 🤝 Contact Me
 
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -126,7 +166,7 @@
 
 <br><br>
 
-<!-- 动态蛇形贡献图 -->
+<!-- GitHub Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.svg" />
@@ -135,7 +175,7 @@
 
 <br>
 
-<!-- 底部波浪 -->
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
