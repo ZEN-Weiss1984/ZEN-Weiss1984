@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Placeholder card until the GitHub Actions workflow generates the latest stats.</desc>
+  <rect width="495" height="195" rx="8" fill="#0d1117"/>
+  <text x="24" y="44" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">GitHub Stats</text>
+  <text x="24" y="88" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="15">Static card is being prepared.</text>
+  <text x="24" y="116" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Run the "Update README Stats Cards" workflow once to generate live data.</text>
+  <text x="24" y="156" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">Optional: add a repository secret named PAT_1 to include private contributions.</text>
+</svg>

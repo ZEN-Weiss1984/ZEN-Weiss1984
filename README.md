@@ -78,16 +78,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ZEN-Weiss1984&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=00D4AA&icon_color=00D4AA&text_color=333&ring_color=00D4AA" alt="GitHub Stats" />
+      <img src="./profile/stats.svg" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEN-Weiss1984&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=333" alt="Top Languages" />
+      <img src="./profile/top-langs.svg" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEN-Weiss1984&theme=transparent&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=00D4AA&currStreakLabel=00D4AA&sideNums=333&sideLabels=333" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ZEN-Weiss1984&theme=transparent&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=00D4AA&currStreakLabel=00D4AA&sideNums=333&sideLabels=333" alt="GitHub Streak" />
 
 <br>
 
@@ -125,9 +125,9 @@
 
 <!-- GitHub Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZEN-Weiss1984/ZEN-Weiss1984/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
