@@ -39,6 +39,34 @@
 <table>
   <tr>
     <td width="70%">
+      <a href="https://arxiv.org/abs/2606.04811">
+        <b>Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?</b>
+      </a>
+      <br>
+      <sub>Rui Zhao, Kaiming Yang, Jifeng Zhu, Siyang Chen, Ziqi Wang, Weijia Wu, Kevin Qinghong Lin, Heng Wang, Mike Zheng Shou</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Video%20Generation-4285F4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Robot%20Manipulation-FF6F61?style=flat-square" />
+      <img src="https://img.shields.io/badge/Embodied%20AI-9B59B6?style=flat-square" />
+      <br>
+      <sub>Introduces Dream.exe, a video-to-execution evaluation framework that tests whether video generation models can produce manipulation motions that translate into executable robot trajectories in simulation.</sub>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://arxiv.org/abs/2606.04811">
+        <img src="https://img.shields.io/badge/arXiv-2606.04811-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="https://arxiv.org/pdf/2606.04811">
+        <img src="https://img.shields.io/badge/PDF-Download-00D4AA?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br></td>
+  </tr>
+  <tr>
+    <td width="70%">
       <a href="https://arxiv.org/abs/2510.13193">
         <b>ReMindRAG: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG</b>
       </a>
