@@ -23,6 +23,7 @@
 🎓 **Master of Computing (Specialisation)** @ [National University of Singapore (NUS)](https://www.nus.edu.sg/)  
 🎓 **Bachelor's Degree** @ [Sichuan University](https://www.scu.edu.cn/)  
 🔬 **Research Intern** @ [ShowLab](https://sites.google.com/view/showlab), advised by **Prof. Mike Shou**  
+💼 **ByteDance Intern (Machine Learning Engineering)**<br>
 🤖 Focusing on cutting-edge directions: **RAG**, **Memory**, **Dialogue System**, **VLA**  
 🧠 Deeply exploring **Multimodal Learning** and **Post-training** techniques  
 🌱 Passionate about building intelligent systems with long-term memory and multi-turn interaction capabilities
